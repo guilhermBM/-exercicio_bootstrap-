@@ -1,0 +1,34 @@
+* {
+    font-family: "PT Sans", sans-serif;
+}
+
+.container {
+    background-color: white;
+    padding: 32px;
+    border-radius: 30px; 
+    padding: 16px;
+    display:block;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+    border: 3px solid grey;
+}
+
+form {
+    background-color: #fff;
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #eaeaea;
+}
+
+button {
+    margin-top: 16px;
+}
+
+.direito-jkl {
+    font-size: small;
+}
